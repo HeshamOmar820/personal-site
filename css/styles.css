@@ -1,0 +1,138 @@
+body{
+    color: #40514e;
+    margin: 0ex;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+.top-div{
+    background-color: #E4F9F5;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    position: relative;
+}
+.middle-div{
+    margin: 100px 0 100px 0;
+}
+.mountain{
+    width: 700px;
+    
+}
+.name{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 40px auto 0 auto;
+    line-height: 2;
+    color: #66BFBF;
+}
+.work{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 350px;
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.volunteer{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.h2{
+    color: #11999E;
+    padding-bottom: 10px;
+    line-height: 2;
+}
+.h3{
+    color: #11999E;
+}
+.p{
+    line-height: 2;
+}
+.footer-link{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    width: 50%;
+    margin: 10px auto 10px auto;
+    line-height: 1;
+    text-align: center;
+}
+
+.hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+.cnt1{
+    margin: 40px auto 40px;
+}
+
+.cnt2{
+    margin: 40px auto 40px;
+}
+.btn {
+	background:linear-gradient(to bottom, #11cdd4 5%, #66BFBF 100%);
+	background-color:#66BFBF;
+	border-radius:8px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #11999e;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1989d8 5%, #11cdd4 100%);
+	background-color:#298dd4;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-div{
+    background-color: #66BFBF;
+    padding: 35px 0 20px;
+}
+.copyright{
+    color: #EAF6F6;
+    margin: 20px 0;
+    font-size: 0.75rem;
+}
